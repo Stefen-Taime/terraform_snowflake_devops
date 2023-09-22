@@ -251,4 +251,4 @@ Terraform will ask for confirmation that you wish to delete the resources. Type 
 
 In conclusion, utilizing Terraform and Snowflake within a DevOps framework allows you to build robust and scalable data solutions while optimizing costs and enhancing operational efficiency. We hope this guide has been helpful and encourage you to explore further the possibilities offered by these tools to meet the specific needs of your organization.
 
-[Github](https://medium.com/@stefentaime_10958/crafting-a-robust-devops-journey-terraform-snowflake-for-scalable-data-solutions-34fc24b2f877)
+[Medium](https://medium.com/@stefentaime_10958/crafting-a-robust-devops-journey-terraform-snowflake-for-scalable-data-solutions-34fc24b2f877)
